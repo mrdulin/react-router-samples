@@ -1,0 +1,22 @@
+{
+  "name": "react-router-v4",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "mrdulin <novaline.dulin@gmail.com>",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://registry.npm.taobao.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrdulin/react-router-samples.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/mrdulin/react-router-samples/issues"
+  },
+  "homepage": "https://github.com/mrdulin/react-router-samples#readme"
+}
